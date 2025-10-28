@@ -35,7 +35,7 @@
 #include <sys/stat.h>
 
 #include <taihen.h>
-#include <vitashell_user.h>
+#include "vitashell_user.h"
 #include "vitashell_error.h"
 
 #define VITASHELL_TITLEID "VITASHELL"

@@ -19,4 +19,4 @@ Navigate to the 'source/include/copyicons' directory then build using:
 `make`
 
 ### Credit:
-Copyicons was originally made by [cy33hc](https://github.com/cy33hc) see their repository for more information.
+[Copyicons](https://github.com/cy33hc/copyicons) was originally made by [cy33hc](https://github.com/cy33hc) see their repository for more information.
