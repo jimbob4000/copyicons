@@ -1,2 +1,7 @@
 .vscode
 build
+.DS_Store
+._*
+Thumbs.db
+.gitignore
+/ignore
