@@ -9,11 +9,13 @@ It is designed for use with my customized fork of [**lpp-vita**](https://github.
 ### Building
 
 Ensure that **VitaSDK** is installed and properly configured in your `PATH` environment variable before proceeding.
-Navigate to the library directory an build using:
+Navigate to the 'source/include/copyicons' directory then build using:
 
-`cd copyicons-master/source/include/copyicons`
+
 `mkdir build && cd build`
+
 `cmake .. -DCMAKE_TOOLCHAIN_FILE=$VITASDK/share/vita.toolchain.cmake`
+
 `make`
 
 ### Credit:
